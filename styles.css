@@ -1,0 +1,22 @@
+
+ .intro1{
+     font-size : 50px;
+     box-shadow: 5px -5px 5px rgb(230,104,59);
+     line-height: 100%;
+}
+
+.intro2{
+    box-shadow: 5px -5px 5px rgb(230,104,59);
+    font-size: 30px;
+    line-height: 100%;
+}
+#card{
+    box-shadow: 5px -5px 5px rgb(230,104,59);
+     transition: transform 0.4s;
+}
+#card:hover{  
+     border: 2px solid rgb(230,104,59);
+      transform: scale(1.03);
+}
+
+
